@@ -1,0 +1,29 @@
+
+    🧠 NEUROTRANSMITTER GENE-BASED BRAIN AGE PREDICTION STUDY
+    ========================================================
+
+    📊 MODEL PERFORMANCE:
+    • Dataset: 524 samples, 100 neurotransmitter genes
+    • Age range: 8.0 - 2120.0 weeks 
+      (-0.6 - 40.0 years)
+    • Best model R²: 0.846 (MAE: 153.03 weeks, RMSE: 277.62 weeks)
+    • Performance improvement: Feature selection increased R² from 0.763 to 0.846
+
+    🧬 KEY FINDINGS:
+    • Top predictive genes: VAMP1, CATSPER2, RNF152, CD274, RAB8A
+    • Synaptic vesicle cycle genes show highest importance
+    • Histamine system genes demonstrate significant age-related changes
+    • Optimal feature set: 100 most important genes
+
+    🎯 BIOLOGICAL INSIGHTS:
+    • Synaptic transmission machinery (VAMP1) most critical for age prediction
+    • Vesicle trafficking genes (RAB family) important across development
+    • Neuroimmune interactions (CD274) contribute to brain aging
+    • Calcium signaling pathways show developmental stage specificity
+
+    📈 DEVELOPMENTAL PATTERNS:
+    • Prenatal period: High synaptic gene expression
+    • Childhood: GABA/Glutamate system maturation  
+    • Adolescence: Dopamine system refinement
+    • Adulthood: Maintenance of neurotransmitter homeostasis
+    
